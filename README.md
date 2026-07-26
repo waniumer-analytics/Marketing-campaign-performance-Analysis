@@ -100,6 +100,6 @@ The dashboard enables marketing teams and business leaders to monitor campaign e
    
 ->  WANI UMER | DATA ANALYST.
 
-1. LINKEDIN:-
-2. PORTFOLIO:-
-3. POWER BI SERVICES:-  https://app.powerbi.com/groups/me/reports/26533c1b-7b87-4637-980f-2792cb447cc0/c1e14e8b0010d813e56e?experience=power-bi  
+
+1. PORTFOLIO:- 
+2. POWER BI SERVICES:-  https://app.powerbi.com/groups/me/reports/26533c1b-7b87-4637-980f-2792cb447cc0/c1e14e8b0010d813e56e?experience=power-bi  
