@@ -61,4 +61,6 @@ This project demonstrates an end-to-end Marketing Analytics solution developed t
 
 https://app.powerbi.com/view?r=eyJrIjoiMmUwNWRiZmItOTgzMy00NTEzLTk2MTYtZTA5ZGRkMmUzNWYwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
+# Video Presentation:- 
 
+https://youtu.be/8OqfdQftVVU
